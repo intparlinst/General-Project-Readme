@@ -13,7 +13,7 @@ This research projects studies International Parliamentary Institutions. These I
 ## Why Create?
 First, we seek to understand why governments create these assemblies. There are currently three competing theories. These parliamentary assemblies could serve as a forum to coordinate policies. Others contend that the diffusion of an EU template makes governments add parliamentary assemblies. Finally, the perceived need for legitimacy in line with a domestic division of powers could persuade actors to create such an institution.
 
-![3D_Selection_Voting_Voting](https://github.com/intparlinst/General-Project-Readme/blob/master/3D_Selection_Voting_Voting.Weighted.png)
+![3D_Selection_Voting_Voting](https://github.com/intparlinst/General-Project-Readme/blob/master/3D_Show_off_2.png)
 
 
 ## Dynamic Development of Aggregate Preferences
