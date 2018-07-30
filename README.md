@@ -13,6 +13,8 @@ This research projects studies International Parliamentary Institutions. These I
 ## Why Create?
 First, we seek to understand why governments create these assemblies. There are currently three competing theories. These parliamentary assemblies could serve as a forum to coordinate policies. Others contend that the diffusion of an EU template makes governments add parliamentary assemblies. Finally, the perceived need for legitimacy in line with a domestic division of powers could persuade actors to create such an institution.
 
+![3D_Selection_Voting_Voting](https://github.com/intparlinst/General-Project-Readme/blob/master/3D_Selection_Voting_Voting.Weighted.png)
+
 
 ## Dynamic Development of Aggregate Preferences
 We develop and test a dynamic theory of preference formation for supranational policy coordination. International parliamentary assemblies are always attractive for those who cherish international cooperation and these politicians will be the first ones to volunteer. As a consequence, international assemblies filled with like minded parliamentarians push for and expand the formal delegation of powers. But the make-up of international assemblies changes as soon as they gain in salience for the domestic constituency. Now, parliamentarians with more domestic preferences are attracted, too. In short, while cosmopolitan parliamentarians self-select into new parliamentary assemblies at early stages, they are increasingly being crowded out the more salient an international parliamentary assembly for domestic policy making becomes.
