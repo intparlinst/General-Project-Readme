@@ -27,7 +27,8 @@ We develop and test a dynamic theory of preference formation for supranational p
 
 # Paper(s)
 
-# Don't forget to check out Henri's [Blog](https://medium.com/@boschenhenri) about his experience as an Research Assistant! 
+# Experience and Research Progress
+Don't forget to check out Henri's [Blog](https://medium.com/@boschenhenri) about his experience as an Research Assistant! 
 
 
 
